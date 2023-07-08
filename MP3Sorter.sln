@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MP3Sorter", "MP3Sorter\MP3Sorter.csproj", "{97E1456F-5A88-4EE5-98D4-1E714BCCE75E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97E1456F-5A88-4EE5-98D4-1E714BCCE75E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E1456F-5A88-4EE5-98D4-1E714BCCE75E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E1456F-5A88-4EE5-98D4-1E714BCCE75E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E1456F-5A88-4EE5-98D4-1E714BCCE75E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {360F56CE-CCAB-4010-A8BC-ABF4AA4F3E6E}
+	EndGlobalSection
+EndGlobal

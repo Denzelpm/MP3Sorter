@@ -1,0 +1,12 @@
+C:\Users\Denzel\source\repos\MP3Sorter\MP3Sorter\bin\Debug\MP3Sorter.exe.config
+C:\Users\Denzel\source\repos\MP3Sorter\MP3Sorter\bin\Debug\MP3Sorter.exe
+C:\Users\Denzel\source\repos\MP3Sorter\MP3Sorter\bin\Debug\MP3Sorter.pdb
+C:\Users\Denzel\source\repos\MP3Sorter\MP3Sorter\bin\Debug\TagLibSharp.dll
+C:\Users\Denzel\source\repos\MP3Sorter\MP3Sorter\bin\Debug\TagLibSharp.pdb
+C:\Users\Denzel\source\repos\MP3Sorter\MP3Sorter\bin\Debug\TagLibSharp.xml
+C:\Users\Denzel\source\repos\MP3Sorter\MP3Sorter\obj\Debug\MP3Sorter.csproj.AssemblyReference.cache
+C:\Users\Denzel\source\repos\MP3Sorter\MP3Sorter\obj\Debug\MP3Sorter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Denzel\source\repos\MP3Sorter\MP3Sorter\obj\Debug\MP3Sorter.csproj.CoreCompileInputs.cache
+C:\Users\Denzel\source\repos\MP3Sorter\MP3Sorter\obj\Debug\MP3Sorter.csproj.CopyComplete
+C:\Users\Denzel\source\repos\MP3Sorter\MP3Sorter\obj\Debug\MP3Sorter.exe
+C:\Users\Denzel\source\repos\MP3Sorter\MP3Sorter\obj\Debug\MP3Sorter.pdb
